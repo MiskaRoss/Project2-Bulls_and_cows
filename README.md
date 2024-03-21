@@ -14,6 +14,9 @@ Welcome to the Cows and Bulls Game! Enter a number:
 1234 2 cows, 0 bulls 1256 1 cow, 1 bull ... Until the user guesses the number.
 
 ## Expected output
-1234 2 cows, 0 bulls 1256 1 cow, 1 bull ... Until the user guesses the number.
+```
+1234 2 cows, 0 bulls 1256 1 cow, 1 bull
+```
+Until the user guesses the number.
 
 And repeat, until finished.
