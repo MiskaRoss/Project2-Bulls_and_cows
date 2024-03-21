@@ -1,7 +1,7 @@
 # ENGETO PROJECT 2 - BULLS AND COWS
+Application description Bulls and Cows game created in Python.
 
-Application description
-Bulls and Cows game created in Python.
+## Description
 
 Create a program that will play the “cows and bulls” game with the user. The game works like this:
 
@@ -13,6 +13,7 @@ Welcome to the Cows and Bulls Game! Enter a number:
 
 1234 2 cows, 0 bulls 1256 1 cow, 1 bull ... Until the user guesses the number.
 
-
-Expected output
+## Expected output
 1234 2 cows, 0 bulls 1256 1 cow, 1 bull ... Until the user guesses the number.
+
+And repeat, until finished.
